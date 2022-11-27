@@ -1,5 +1,4 @@
-# MorningMessageJava
-Send a programmed morning message
+# Morning_Message
+Send a programmed morning message using a twilio number and python SDK
 
-You can schudule a morning message using a Twilio number
 
